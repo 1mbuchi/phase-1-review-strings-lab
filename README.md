@@ -222,8 +222,8 @@ const currentUser = 'Grace Hopper';
 
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
-const excitedWelcomeMessage = welcomeMessage.toUpperCase();
-```
+
+```const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 All strings in JavaScript have access to the same set of default methods, which
 are common operations like changing a string and returning the new version,
